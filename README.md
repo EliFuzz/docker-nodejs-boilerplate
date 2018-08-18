@@ -1,9 +1,9 @@
 <h1 align="center">Docker compose Node.js boilerplate</h1>
 <p align="center">This is a Docker Compose boilerplate for Node.js with yarn, based on Alpine Linux image</p>
 <p align="center">
-  <img width="500" height="150" src="https://alpinelinux.org/alpinelinux-logo.svg" alt="Linux Alpine logo">
+  <img width="150" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDWWMBh8n7MPfnXSxV7u6XGLybLQNrF52NjoemwP1iLPqwnkMQQ" alt="Linux Alpine logo">
   <img width="150" height="150" src="https://nodejs.org/static/images/logo-light.svg" alt="Node.js logo">
-  <img width="250" height="150" src="https://yarnpkg.com/assets/og_image.png" alt="Yarn logo">
+  <img width="150" height="150" src="https://yarnpkg.com/assets/search/ico-yarn.svg" alt="Yarn logo">
   <img width="150" height="150" src="https://raw.githubusercontent.com/docker/compose/master/logo.png" alt="Docker compose logo">
 </p>
 
