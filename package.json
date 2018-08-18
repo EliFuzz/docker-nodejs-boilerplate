@@ -1,0 +1,30 @@
+{
+  "name": "docker-nodejs-boilerplate",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EliFuzz/docker-nodejs-boilerplate.git"
+  },
+  "description": "https://github.com/EliFuzz/docker-nodejs-boilerplate",
+  "scripts": {
+    "start": "echo 'Hello World!'"
+  },
+  "author": "Roman Glushach <roman.glushach@gmail.com> (https://github.com/EliFuzz)",
+  "homepage": "https://github.com/EliFuzz/docker-nodejs-boilerplate",
+  "keywords": [
+    "slim",
+    "compact",
+    "small",
+    "alpine",
+    "docker",
+    "dockerfile",
+    "docker-compose",
+    "docker compose",
+    "node",
+    "nodejs",
+    "boilerplate"
+  ],
+  "license": "gpl-3.0",
+  "devDependencies": {
+  }
+}
